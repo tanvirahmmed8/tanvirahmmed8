@@ -8,6 +8,27 @@ tanvirahmmed8/tanvirahmmed8 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+## Tools / Languages:
+
+These are the tools and languages that I have worked with and have experience using them.
+
+![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![Livewire](https://img.shields.io/badge/-Livewire-313131?style=flat&logo=Livewire)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-313131?style=flat&logo=jquery)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-313131?style=flat&logo=bootstrap)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![PhpStrom](https://img.shields.io/badge/-PhpStrom-05122A?style=flat&logo=phpstorm)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-313131?style=flat&logo=windows)
+![Canva](https://img.shields.io/badge/-Canva-313131?style=flat&logo=canva)
+
 **Support Me 🌈** <br/>
  [![buymeacoffee.com/tanvirahmmed](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tanvirahmmed)
 
