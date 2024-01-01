@@ -1,16 +1,25 @@
-- 👋 Hi, I’m Tanvir Ahmmed
+<!-- - 👋 Hi, I’m Tanvir Ahmmed
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me: tanvirahmmad826@gmail.com
-- ⚡ Fun fact: I love traveling
+- ⚡ Fun fact: I love traveling -->
 
+![Cover](https://repository-images.githubusercontent.com/530346094/17d78f5b-5b87-44b6-bfce-9132bb4500f5)
 <!---
 tanvirahmmed8/tanvirahmmed8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Tools / Languages:
+ 
+<h2 align="center">🌱 About Me:</h2>
+<p align="center">Hello! My name is Tanvir Ahmmed and I enjoy creating things that live on the internet. My interest in Web Application Development started back in 2020. I currently work as a Software Engineer at Nextzen Limited. I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences.</p>
 
-These are the tools and languages that I have worked with and have experience using them.
+**Support Me 🌈** <br/>
+ [![buymeacoffee.com/tanvirahmmed](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tanvirahmmed)
+<hr>
+
+<h3 align="center">✨ Tools / Languages:</h3>
+<p align="center">These are the tools and languages that I have worked with and have experience using them.</p>
+<hr>
 
 <!-- ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
@@ -28,9 +37,7 @@ These are the tools and languages that I have worked with and have experience us
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-313131?style=flat&logo=windows)
 ![Canva](https://img.shields.io/badge/-Canva-313131?style=flat&logo=canva)
-
-**Support Me 🌈** <br/>
- [![buymeacoffee.com/tanvirahmmed](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tanvirahmmed) -->
+-->
 
 
 
@@ -62,13 +69,13 @@ These are the tools and languages that I have worked with and have experience us
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a>
 </p>
 
-
-<hr />
-
-## Github Stats:
-
+<hr>
+<h3 align="center">⚡ Github Stats:</h3>
+<hr>
+<br>
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed8&count_private=true&include_all_commits=true&theme=tokyonight" alt="Tanvir's stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahmmed8&layout=compact&theme=tokyonight" alt="Tanvir's top language stats" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirahmmed8&bg_color=000000&color=0f7cf0&line=0b71d0&point=ffffff&area=true&hide_border=true" alt="Tanvir's top language stats" />
 </p>
