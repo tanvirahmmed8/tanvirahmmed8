@@ -51,8 +51,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 
-
-
 <p align="center">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="60" height="60"/> </a>
@@ -72,7 +70,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <hr>
-<h3 align="center">⚡ Github Stats ⚡</h3>
+<h3 align="center">⚡ Github Stats:</h3>
 <hr>
 <br>
 <p align="center">
