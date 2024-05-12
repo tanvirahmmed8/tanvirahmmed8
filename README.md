@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">🌱 About Me:</h2>
 <p align="center">Hello! My name is Tanvir Ahmmed and I enjoy creating things that live on the internet. My interest in Web Application Development started back in 2020. I currently work as a Software Engineer at Nextzen Limited. I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences.</p>
 
-**Support Me 🌈** <br/>
+**Support Me ** <br/>
  [![buymeacoffee.com/tanvirahmmed](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tanvirahmmed)
 <hr>
 
