@@ -1,83 +1,76 @@
-<!-- - 👋 Hi, I’m Tanvir Ahmmed
-- 🌱 I’m currently learning Laravel
-- 📫 How to reach me: tanvirahmmad826@gmail.com
-- ⚡ Fun fact: I love traveling -->
-
 ![Cover](https://repository-images.githubusercontent.com/530346094/17d78f5b-5b87-44b6-bfce-9132bb4500f5)
-<!---
-tanvirahmmed8/tanvirahmmed8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
- 
-<h2 align="center">🌱 About Me:</h2>
-<p align="center">Hello! My name is Tanvir Ahmmed and I enjoy creating things that live on the internet. My interest in Web Application Development started back in 2020. I currently work as a Software Engineer at Comjagat Technologies Limited. I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences.</p>
+<h2 align="center">👨‍💻 About Me</h2>
+<div align="center">
+  Hello! I'm <strong>Tanvir Ahmmed</strong> — a passionate Software Engineer who enjoys crafting meaningful and performant digital experiences. <br>
+  My journey into web application development began in <strong>2020</strong>, and since then, I’ve been focused on building scalable and robust systems. <br>
+  I currently work at <strong>Comjagat Technologies Limited</strong>, where I specialize in backend development (PHP, Laravel) while also exploring frontend technologies and AI integrations.
+</div>
 
-**Support Me ⚡** <br/>
- [![buymeacoffee.com/tanvirahmmed](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tanvirahmmed)
-<hr>
-
-<h3 align="center">✨ Tools / Languages:</h3>
-<p align="center">These are the tools and languages that I have worked with and have experience using them.</p>
-<hr>
-
-<!-- ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
-![Livewire](https://img.shields.io/badge/-Livewire-313131?style=flat&logo=Livewire)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-313131?style=flat&logo=jquery)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-313131?style=flat&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PhpStrom](https://img.shields.io/badge/-PhpStrom-05122A?style=flat&logo=phpstorm)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-313131?style=flat&logo=windows)
-![Canva](https://img.shields.io/badge/-Canva-313131?style=flat&logo=canva)
--->
-
-
-
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="60" height="60"/>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/> </a>
-</a>
-</p>
-
-
-
-<p align="center">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="60" height="60"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
-</p>
-
-<p align="center">
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" alt="phpstorm" width="60" height="60"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="jekyll" width="60" height="60"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a>
-</p>
-
-<hr>
-<h3 align="center">⚡ Github Stats ⚡</h3>
-<hr>
 <br>
-<p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed8&count_private=true&include_all_commits=true&theme=tokyonight" alt="Tanvir's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahmmed8&layout=compact&theme=tokyonight" alt="Tanvir's top language stats" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirahmmed8&bg_color=000000&color=0f7cf0&line=0b71d0&point=ffffff&area=true&hide_border=true" alt="Tanvir's top language stats" />
+<div align="center">
+  <a href="https://www.buymeacoffee.com/tanvirahmmed" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://github.com/tanvirahmmed8" target="_blank">
+    <img src="https://img.shields.io/github/followers/tanvirahmmed8?label=Follow&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://linkedin.com/in/tanvirahmmed8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center">✨ Tech Stack & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nodejs,html,css,bootstrap,jquery,mysql,sqlite,git,github,gitlab,linux,windows,vscode,phpstorm,python" alt="Tech Stack"/>
+</p>
+
+---
+
+<h2 align="center">💡 Projects I'm Proud Of</h2>
+<ul>
+  <li><strong>Digital Polli (Laravel-based):</strong> A complete e-commerce platform with custom order flow, admin control, and scalable architecture.</li>
+  <li><strong>Dividend Calculation & Share Management:</strong> Designed core logic for calculating dividends and automating share distribution using Laravel & React.</li>
+  <li><strong>bVideo.ai (React-based):</strong> A smart video platform powered by AI — built frontend features with React and integrated backend API calls.</li>
+</ul>
+
+---
+
+<h2 align="center">🔭 Currently Working On</h2>
+<ul>
+  <li><a href="https://powerinai.com/" target="_blank"><strong>PowerInAI.com</strong></a> – A next-gen AI platform with powerful backend integrations and AI API calling workflows.</li>
+  <li>Enhancing the <strong>Share Management System</strong> with improved performance and automated payout mechanisms.</li>
+  <li>AI-integrated services that consume and interact with external APIs for intelligent data processing.</li>
+</ul>
+
+---
+
+<h2 align="center">🧠 Currently Learning</h2>
+<ul>
+  <li><strong>Python:</strong> Diving into backend automation, data manipulation, and AI/ML foundations.</li>
+  <li><strong>Agentic AI:</strong> Exploring multi-agent systems, tool-using agents, and intelligent decision workflows.</li>
+  <li><strong>Ollama:</strong> Running and fine-tuning local LLMs for offline inference and development.</li>
+  <li><strong>N8N Workflow Automation:</strong> Building no-code/low-code automations for task orchestration, API integrations, and backend triggers.</li>
+</ul>
+
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed8&count_private=true&include_all_commits=true&theme=default" alt="Tanvir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahmmed8&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvirahmmed8&bg_color=ffffff&color=0f7cf0&line=0b71d0&point=222222&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="mailto:tanvirahmmad826@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/tanvirahmmed8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/tanvirahmmed8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
