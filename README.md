@@ -2,8 +2,8 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <div align="center">
-  Hello! I'm <strong>Tanvir Ahmmed</strong> — a passionate Software Engineer who enjoys crafting meaningful and performant digital experiences. <br>
-  My journey into web application development began in <strong>2020</strong>, and since then, I’ve been focused on building scalable and robust systems. <br>
+  Hello! I'm <strong>Tanvir Ahmmed</strong> A passionate Software Engineer who enjoys crafting meaningful and performant digital experiences. <br>
+  My journey into web application development began in <strong>2020</strong> and since then, I’ve been focused on building scalable and robust systems. <br>
   I currently work at <strong>Comjagat Technologies Limited</strong>, where I specialize in backend development (PHP, Laravel) while also exploring frontend technologies and AI integrations.
 </div>
 
@@ -32,16 +32,16 @@
 
 <h2 align="center">💡 Projects I'm Proud Of</h2>
 <ul>
-  <li><strong>Digital Polli (Laravel-based):</strong> A complete e-commerce platform with custom order flow, admin control, and scalable architecture.</li>
+  <li><strong>Digital Polli (Laravel-based):</strong> A complete e-commerce platform with custom order flow, admin control and scalable architecture.</li>
   <li><strong>Dividend Calculation & Share Management:</strong> Designed core logic for calculating dividends and automating share distribution using Laravel & React.</li>
-  <li><strong>bVideo.ai (React-based):</strong> A smart video platform powered by AI — built frontend features with React and integrated backend API calls.</li>
+  <li><strong>bVideo.ai (React-based):</strong> A smart video platform powered by AI built frontend features with React and integrated backend API calls.</li>
 </ul>
 
 ---
 
 <h2 align="center">🔭 Currently Working On</h2>
 <ul>
-  <li><a href="https://powerinai.com/" target="_blank"><strong>PowerInAI.com</strong></a> – A next-gen AI platform with powerful backend integrations and AI API calling workflows.</li>
+  <li><a href="https://powerinai.com/" target="_blank"><strong>PowerInAI.com:</strong></a> A next-gen AI platform with powerful backend integrations and AI API calling workflows.</li>
   <li>Enhancing the <strong>Share Management System</strong> with improved performance and automated payout mechanisms.</li>
   <li>AI-integrated services that consume and interact with external APIs for intelligent data processing.</li>
 </ul>
@@ -50,10 +50,10 @@
 
 <h2 align="center">🧠 Currently Learning</h2>
 <ul>
-  <li><strong>Python:</strong> Diving into backend automation, data manipulation, and AI/ML foundations.</li>
-  <li><strong>Agentic AI:</strong> Exploring multi-agent systems, tool-using agents, and intelligent decision workflows.</li>
+  <li><strong>Python:</strong> Diving into backend automation, data manipulation and AI/ML foundations.</li>
+  <li><strong>Agentic AI:</strong> Exploring multi-agent systems, tool-using agents and intelligent decision workflows.</li>
   <li><strong>Ollama:</strong> Running and fine-tuning local LLMs for offline inference and development.</li>
-  <li><strong>N8N Workflow Automation:</strong> Building no-code/low-code automations for task orchestration, API integrations, and backend triggers.</li>
+  <li><strong>N8N Workflow Automation:</strong> Building no-code/low-code automations for task orchestration, API integrations and backend triggers.</li>
 </ul>
 
 
