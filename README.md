@@ -46,6 +46,7 @@
   <strong>AI:</strong> Pipecat · RAG · Vector Search · Ollama · Sentence Transformers · llama.cpp &nbsp;|&nbsp;
   <strong>Infra:</strong> Docker · Nginx · Linux · MinIO · AWS</sub>
 </p>
+
 ---
 
 <h2 align="center">💼 Experience</h2>
@@ -81,6 +82,7 @@
 | **[Local RAG System](https://github.com/tanvirahmmed8/rag-system)** | Context-aware document ingestion and semantic retrieval — turns documents into vector embeddings and returns the most relevant chunks for a query, fully offline. | Python · FastAPI · Streamlit · Sentence Transformers · llama.cpp · PostgreSQL + pgvector |
 | **[Share Management System](https://comjagat.org/share-management/)** | Enterprise shareholder administration and share tracking for organizations regulated by the Bangladesh Securities and Exchange Commission (BSEC). | Laravel · MySQL · Redis · Bootstrap · AWS |
 | **[Dividend Calculation System](https://comjagat.org/dividend-calculation/)** | Automates dividend distribution for listed companies, banks and financial institutions, calculating payouts from company declarations and shareholder records. | Laravel · MySQL · REST API · Bootstrap |
+
 ---
 
 <h2 align="center">🔭 Currently Working On</h2>
@@ -90,6 +92,7 @@
   <li>Enhancing the <strong>Share Management System</strong> with improved performance and automated payout mechanisms.</li>
   <li>AI-integrated services that consume and interact with external APIs for intelligent data processing.</li>
 </ul>
+
 ---
 
 <h2 align="center">🧠 Currently Learning</h2>
@@ -138,11 +141,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tanvirahmmed8&theme=github-dark-blue&hide_border=true">
     <img src="https://streak-stats.demolab.com/?user=tanvirahmmed8&theme=default&hide_border=true" alt="GitHub streak" />
   </picture>
-</div>
-
-<h3 align="center">📈 Contribution Graph</h3>
-<div align="center">
-  <img src="https://ghchart.rshah.org/0f7cf0/tanvirahmmed8" alt="Contribution graph" width="100%" />
 </div>
 
 ---
